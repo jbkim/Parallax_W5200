@@ -14,7 +14,8 @@ CON
   SPI_MOSI      = 14 ' SPI master out serial in to slave
   SPI_CS        = 15 ' SPI chip select (active low)
   PWDN          = 24 
-  RESET_PIN     = 26 ' Reset
+'  RESET_PIN     = 26 ' Reset
+  RESET_PIN     = 6 ' Reset
   
   #0, CLOSED, TCP, UDP, IPRAW, MACRAW, PPPOE
     
@@ -44,7 +45,7 @@ PUB Main | i
   wiz.SetCommonnMode(0)
   wiz.SetGateway(192, 168, 1, 1)
   wiz.SetSubnetMask(255, 255, 255, 0)
-  wiz.SetIp(192, 168, 1, 105)
+  wiz.SetIp(192, 168, 1, 115)
 
   pst.str(string("Initialize Sockets",CR))
   repeat i from 0 to SOCKETS-1
