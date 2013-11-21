@@ -19,3 +19,5 @@
   PWDN          = 24 ' Power donwn (Not used)
   
   RESET_PIN     = 6 ' Reset
+
+![image](https://github.com/jbkim/Parallax_W5200/blob/master/Photo/Propeller_WIZ820io.jpg)
