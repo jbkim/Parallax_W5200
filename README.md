@@ -20,4 +20,4 @@
   
   RESET_PIN     = 6 ' Reset
 
-![image](https://github.com/jbkim/Parallax_W5200/blob/master/Photo/Propeller_WIZ820io.jpg)
+![image](https://raw.github.com/jbkim/Parallax_W5200/master/Photo/Propeller_WIZ820io.jpg)
