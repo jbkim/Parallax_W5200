@@ -1,7 +1,7 @@
-# W5200 Driver for Parallax Propellar - spin
+# W5200 Driver for Parallax Propeller - spin
 
 ## Description
--. [Parallax Propellar chip](http://parallax.com/microcontrollers/propeller)
+-. [Parallax Propeller chip](http://parallax.com/microcontrollers/propeller)
 
 -. [WIZnet W5200 Ethernet controller](http://www.wiznet.co.kr/Sub_Modules/en/product/Product_Detail.asp?cate1=5&cate2=7&cate3=56&pid=1144)
 
